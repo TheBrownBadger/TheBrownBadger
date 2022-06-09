@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TheBrownBadger
+- 👀 I’m interested in software engineering.
+- 🌱 I’m currently learning problem solving with algorithms and data structures using Python.
+- 💞️ I’m looking to collaborate on small projects that involve managing data.
